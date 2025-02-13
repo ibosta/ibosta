@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ibosta.ibosta&" />
 <img align="right" height="150" src="https://i.imgflip.com/9g203q.gif"  />
 
 ###
