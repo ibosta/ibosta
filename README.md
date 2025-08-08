@@ -11,8 +11,9 @@
 
 <!-- Spotify Now Playing -->
 <div align="center">
-  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/xs8dozqzdns0v3nvdpbazf7l8)
+  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify?username=xs8dozqzdns0v3nvdpbazf7l8)](https://open.spotify.com/user/xs8dozqzdns0v3nvdpbazf7l8)
 </div>
+
 
 ###
 
