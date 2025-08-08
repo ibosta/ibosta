@@ -8,6 +8,14 @@
 </div>
 
 ###
+
+<!-- Spotify Now Playing -->
+<div align="center">
+  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/xs8dozqzdns0v3nvdpbazf7l8)
+</div>
+
+###
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ibosta.ibosta&" />
 <img align="right" height="150" src="https://i.imgflip.com/9g203q.gif"  />
 
