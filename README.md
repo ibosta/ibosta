@@ -48,6 +48,7 @@
 </div>
 
 ###
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xs8dozqzdns0v3nvdpbazf7l8&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=xs8dozqzdns0v3nvdpbazf7l8&redirect=true)
 
 <br clear="both">
 
